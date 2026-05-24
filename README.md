@@ -226,10 +226,10 @@ The following is a full list of night order. This is so night order numbers can 
 * 93 - $${\color{deepskyblue}High Priestess}$$
 * 94 - $${\color{deepskyblue}General}$$
 * 95 - $${\color{deepskyblue}Chambermaid}$$
-* 97 - $${\color{deepskyblue}Mathematician}$$
-* 98 - $${\color{darkred}Riot}$$
-* 99 - $${\color{black}Dawn}$$
-* 100 - $${\color{darkred}Leviathan}$$
+* 96 - $${\color{deepskyblue}Mathematician}$$
+* 97 - $${\color{darkred}Riot}$$
+* 98 - $${\color{black}Dawn}$$
+* 99 - $${\color{darkred}Leviathan}$$
 
 # Online app missing features
 The Script Tool PNG Export function does not work with images sourced from the Online App: https://discord.com/channels/1011236067560669234/1447323702420050142
